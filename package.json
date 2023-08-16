@@ -1,0 +1,14 @@
+{
+  "name": "talkium-lts-redirect",
+  "version": "1.0.0",
+  "description": "this is a web server which redirects to the latest version of Talkium",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "GlitchieTheDev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
